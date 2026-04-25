@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { motion } from "framer-motion";
 import type { Dictionary } from "@/lib/dictionary";
 
@@ -99,6 +100,17 @@ function TeaPillar({ data }: { data: Dictionary["pillars"]["tea"] }) {
         </h3>
         <p className="text-xs tracking-wider text-kinpaku">{data.subtitle}</p>
         <div className="mt-2 h-px w-8 bg-kinpaku/40" />
+      </div>
+
+      {/* Tea ceremony photo */}
+      <div className="relative aspect-square w-full overflow-hidden">
+        <Image
+          src="/images/tea.jpg"
+          alt="茶会の様子"
+          fill
+          className="object-cover"
+          sizes="(max-width: 768px) 100vw, 33vw"
+        />
       </div>
 
       <p className="text-sm leading-8 tracking-wider text-sumi/70">

@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { motion } from "framer-motion";
 import type { Dictionary } from "@/lib/dictionary";
 
@@ -36,10 +37,15 @@ export default function About({ dict }: Props) {
             transition={{ duration: 0.8 }}
             className="flex-shrink-0"
           >
-            <div className="h-72 w-56 bg-sumi/5 md:h-80 md:w-64">
-              <div className="flex h-full w-full items-center justify-center text-xs text-sumi/30">
-                Portrait
-              </div>
+            <div className="relative h-80 w-60 overflow-hidden md:h-96 md:w-72">
+              <Image
+                src="/images/portrait.jpeg"
+                alt="伊勢修"
+                fill
+                className="object-cover"
+                sizes="(max-width: 768px) 240px, 288px"
+                priority
+              />
             </div>
           </motion.div>
 

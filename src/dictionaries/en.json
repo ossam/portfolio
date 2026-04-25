@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "title": "Ise Osamu | Producer · Painter · Tea Practitioner",
+    "description": "Portfolio of Ise Osamu — a producer, painter, and tea practitioner based in Miyota, Nagano, Japan."
+  },
+  "header": {
+    "about": "About",
+    "product": "Product",
+    "art": "Art",
+    "tea": "Tea",
+    "philosophy": "Philosophy",
+    "contact": "Contact"
+  },
+  "hero": {
+    "name": "伊勢修",
+    "nameKana": "イセオサム",
+    "nameEn": "Ise Osamu",
+    "subtitle": "Producer · Painter · Tea Practitioner",
+    "scroll": "Scroll"
+  },
+  "about": {
+    "sectionTitle": "About",
+    "sectionSubtitle": "Profile",
+    "location": "Based in Miyota, Nagano, Japan",
+    "bio": "Born in 1983. CEO of Play Inc.\nCo-operator of \"Bokete,\" Japan's largest crowd-sourced comedy platform.\nActive as a painter and tea practitioner.\nAdvocates \"Fukusen Shikō\" (Foreshadowing Thinking) — a framework for re-reading past experiences as narrative foreshadowing.",
+    "location2": "Living in Miyota for 6 years"
+  },
+  "pillars": {
+    "product": {
+      "title": "Product",
+      "subtitle": "Business",
+      "items": [
+        {
+          "name": "bokete",
+          "description": "Co-operator. 8M+ downloads, 100M+ comedy posts",
+          "url": "https://bokete.jp"
+        },
+        {
+          "name": "Play Inc.",
+          "description": "CEO",
+          "url": ""
+        },
+        {
+          "name": "Navicas Inc.",
+          "description": "Outside Director (SNS Marketing)",
+          "url": ""
+        },
+        {
+          "name": "Omoroki Inc.",
+          "description": "Co-operator",
+          "url": ""
+        },
+        {
+          "name": "MUSUBU",
+          "description": "Business Design & Advisory",
+          "url": ""
+        },
+        {
+          "name": "Hon no Hitokoto",
+          "description": "Book recommendation service (in development)",
+          "url": ""
+        },
+        {
+          "name": "BoosterMate / BoosterHub",
+          "description": "Advisory",
+          "url": ""
+        }
+      ]
+    },
+    "art": {
+      "title": "Art",
+      "subtitle": "Painting",
+      "description": "Creating mixed-media paintings using gold leaf, silver leaf, and sulfurization techniques. Exploring the interplay between chance and intention through the transformation of natural materials over time.",
+      "works": [
+        {
+          "title": "孤峰",
+          "titleEn": "Kohō (Solitary Peak)",
+          "medium": "Gold leaf, sulfurization (mixed media)",
+          "year": ""
+        },
+        {
+          "title": "対峰",
+          "titleEn": "Taihō (Twin Peaks)",
+          "medium": "Silver leaf, sulfurization (mixed media)",
+          "year": ""
+        }
+      ],
+      "exhibitions": "Venice Biennale related exhibition (May 2026, Palazzo Pisani Santa Marina)"
+    },
+    "tea": {
+      "title": "Tea",
+      "subtitle": "Tea Practice",
+      "description": "Through the way of tea, creating ephemeral spaces of encounter — ichigo ichie — between people and place.",
+      "activities": [
+        {
+          "name": "Karuizawa Kinshū Chakai",
+          "detail": "October 25, 2026, Karuizawa",
+          "year": "2026"
+        },
+        {
+          "name": "LIFE Tea ART",
+          "detail": "A workshop combining tea ceremony with life timelines (Miyota Living Lab)",
+          "year": ""
+        },
+        {
+          "name": "Nodate at Venice Biennale",
+          "detail": "May 2026, Palazzo Pisani Santa Marina",
+          "year": "2026"
+        }
+      ]
+    }
+  },
+  "philosophy": {
+    "sectionTitle": "Foreshadowing Thinking",
+    "sectionSubtitle": "伏線思考 / Fukusen Shikō",
+    "body": "A framework for re-reading past events not as mere occurrences, but as foreshadowing in the narrative of your life.\nProduct, painting, tea — seemingly disparate pursuits, all connected by a single thread.",
+    "book": "Upcoming book from Sunmark Publishing.",
+    "noteLabel": "Read more on note",
+    "noteUrl": ""
+  },
+  "contact": {
+    "sectionTitle": "Contact",
+    "sectionSubtitle": "Get in Touch",
+    "description": "For business inquiries, exhibition and tea event information, or media requests, please feel free to reach out.",
+    "categories": [
+      "Business inquiries (product & consulting)",
+      "Art & exhibitions",
+      "Tea events & workshops",
+      "Media & press"
+    ],
+    "emailLabel": "Send an email",
+    "email": "hello@example.com",
+    "formName": "Name",
+    "formEmail": "Email",
+    "formCategory": "Category",
+    "formMessage": "Message",
+    "formSubmit": "Send"
+  },
+  "footer": {
+    "copyright": "© 2026 Ise Osamu. All rights reserved."
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "title": "伊勢修 | 経営者・画家・茶人",
+    "description": "伊勢修（イセオサム）のポートフォリオサイト。プロダクト、絵画、茶の三本柱で活動。"
+  },
+  "header": {
+    "about": "プロフィール",
+    "product": "事業",
+    "art": "絵画",
+    "tea": "茶",
+    "philosophy": "伏線思考",
+    "contact": "お問い合わせ"
+  },
+  "hero": {
+    "name": "伊勢修",
+    "nameKana": "イセオサム",
+    "nameEn": "Ise Osamu",
+    "subtitle": "Producer · Painter · Tea Practitioner",
+    "scroll": "Scroll"
+  },
+  "about": {
+    "sectionTitle": "About",
+    "sectionSubtitle": "プロフィール",
+    "location": "長野県御代田町在住",
+    "bio": "1983年生まれ。長野県御代田町在住。プレイ株式会社代表取締役。\n大喜利投稿サービス「ボケて」共同運営、画家、茶人として活動。\n過去の経験を物語の伏線として読み直す「伏線思考」を提唱し、執筆・講演も行う。"
+  },
+  "pillars": {
+    "product": {
+      "title": "Product",
+      "subtitle": "事業",
+      "items": [
+        {
+          "name": "bokete（ボケて）",
+          "description": "共同運営。約800万DL、累計1億ボケ超の大喜利投稿サービス",
+          "url": "https://bokete.jp"
+        },
+        {
+          "name": "プレイ株式会社",
+          "description": "代表取締役",
+          "url": ""
+        },
+        {
+          "name": "ナビカス株式会社",
+          "description": "社外取締役（SNSマーケティング）",
+          "url": ""
+        },
+        {
+          "name": "オモロキ株式会社",
+          "description": "共同運営",
+          "url": ""
+        },
+        {
+          "name": "MUSUBU",
+          "description": "事業設計・アドバイザリー",
+          "url": ""
+        },
+        {
+          "name": "本のひとこと",
+          "description": "開発中の書籍推薦サービス",
+          "url": ""
+        },
+        {
+          "name": "BoosterMate / BoosterHub",
+          "description": "アドバイザリー",
+          "url": ""
+        }
+      ]
+    },
+    "art": {
+      "title": "Art",
+      "subtitle": "絵画",
+      "description": "金箔・銀箔・硫化技法を用いた絵画作品を制作。自然の変容と時間の痕跡をテーマに、偶然と意図の間に生まれる表情を追求する。",
+      "works": [
+        {
+          "title": "孤峰",
+          "titleEn": "Kohō",
+          "medium": "金箔・硫化技法（mixed media）",
+          "year": ""
+        },
+        {
+          "title": "対峰",
+          "titleEn": "Taihō",
+          "medium": "銀箔・硫化技法（mixed media）",
+          "year": ""
+        }
+      ],
+      "exhibitions": "ヴェネチア・ビエンナーレ関連企画（2026年5月、Palazzo Pisani Santa Marina）"
+    },
+    "tea": {
+      "title": "Tea",
+      "subtitle": "茶",
+      "description": "茶の湯を通じて、人と人、人と場の間に生まれる一期一会の空間をつくる。",
+      "activities": [
+        {
+          "name": "錦秋茶会（Karuizawa Kinshū Chakai）",
+          "detail": "2026年10月25日、軽井沢",
+          "year": "2026"
+        },
+        {
+          "name": "LIFE茶ART",
+          "detail": "茶と人生年表を組み合わせたワークショップ（御代田リビングラボ）",
+          "year": ""
+        },
+        {
+          "name": "野点（ヴェネチア・ビエンナーレ）",
+          "detail": "2026年5月、Palazzo Pisani Santa Marina",
+          "year": "2026"
+        }
+      ]
+    }
+  },
+  "philosophy": {
+    "sectionTitle": "伏線思考",
+    "sectionSubtitle": "Fukusen Shikō",
+    "body": "過去の出来事を「ただの出来事」ではなく、いまここに繋がる物語の伏線として読み直す思考法。\nプロダクト、絵画、茶——一見バラバラに見える活動も、ひとつの線でつながっている。",
+    "book": "サンマーク出版より書籍化予定。",
+    "noteLabel": "noteで詳しく読む",
+    "noteUrl": ""
+  },
+  "contact": {
+    "sectionTitle": "Contact",
+    "sectionSubtitle": "お問い合わせ",
+    "description": "お仕事のご依頼、展覧会・茶会に関するお問い合わせ、取材のご依頼など、お気軽にご連絡ください。",
+    "categories": [
+      "仕事のご依頼（プロダクト・事業相談）",
+      "作品・展覧会について",
+      "茶会・ワークショップについて",
+      "取材・メディア"
+    ],
+    "emailLabel": "メールで問い合わせる",
+    "email": "hello@example.com",
+    "formName": "お名前",
+    "formEmail": "メールアドレス",
+    "formCategory": "お問い合わせの種類",
+    "formMessage": "メッセージ",
+    "formSubmit": "送信する"
+  },
+  "footer": {
+    "copyright": "© 2026 伊勢修 / Ise Osamu. All rights reserved."
+  }
+}
